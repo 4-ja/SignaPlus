@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Distribution
+dist/
+build/
+*.exe
+
+# Local Settings
+settings.txt

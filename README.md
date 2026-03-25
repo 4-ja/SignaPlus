@@ -22,7 +22,7 @@ Getting Started
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/yourusername/SignaPlus.git](https://github.com/yourusername/SignaPlus.git)
+   git clone [https://github.com/4-ja/SignaPlus.git](https://github.com/4-ja/SignaPlus.git)
    cd SignaPlus
    
 2. Install dependencies:
